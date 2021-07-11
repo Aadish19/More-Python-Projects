@@ -1,0 +1,16 @@
+1). Google Text to Speech API commonly known as gTTS API.
+gTTs is a very easy to use tool which converts the text entered ,into audio which can be saved as a mpr file.
+
+2). The gTTs API supports many languages like Hindi,English and many more
+Speech has two availabe audio speeds --fast, slow
+
+
+//Now we have to start working in Virtual Environment
+So open Command Prompt in myenv 
+
+Step1)Activate Virtual environment
+>>scripts\activate
+>>pip install gTTS
+>>pip install gtts
+fer vs code me code likhke vahi '>' aisa play button pe click karke run hojega aur mp3 file play hojegi
+  

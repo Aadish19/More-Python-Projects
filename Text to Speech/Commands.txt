@@ -1,0 +1,11 @@
+pip install virtualenv
+
+virtualenv myenv <<-This will create a virtual env
+//myenv is name of ypour virtual environment
+
+//Activating virtual environment
+myenv\scripts\activate
+//agar virtual env ka naam aagaya iss command ke baad toh mtlb
+//virtual env create hogaya hai
+
+//Now the packages that we will create will be isolated in vvirtual env only
