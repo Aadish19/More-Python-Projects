@@ -1,0 +1,14 @@
+Converting our file to .exe file so that we can directly 
+download it as desktop software
+
+# Commands
+pip intsall pyinstaller
+
+pyinstaller jumblebot.py
+# This will include opening of command prompt and creation
+#of many other files
+
+So we should use
+pyinstaller --onefile --windowed jumblebot.py
+
+#After compilation Go to folder --> In that dist file> .exe file
